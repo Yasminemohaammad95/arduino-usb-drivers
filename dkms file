@@ -1,0 +1,5 @@
+git clone https://github.com/gschorcht/spi-ch341-usb.git
+cd spi-ch341-usb
+make
+
+sudo make install
